@@ -1,0 +1,32 @@
+.App {
+  text-align: -webkit-center;
+}
+
+.form-label {
+  display: flex;
+}
+
+body {
+  background-color: rgb(244,247,248);
+}
+
+.p1[data-count]::before {
+  position: absolute;
+  left: 100%;
+  top: 8%;
+  content: attr(data-count);
+  font-size: 60%;
+  height: 12px;
+  width: auto;
+  padding: .2em;
+  border-radius: 50%;
+  line-height: 1em;
+  color: white;
+  background: tomato;
+  text-align: center;
+  min-width: 1em;
+}
+
+.row{
+  margin: 0px;
+}
