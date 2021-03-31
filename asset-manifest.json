@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BillingApp/static/css/main.3acdc3a8.chunk.css",
+    "main.js": "/BillingApp/static/js/main.825d65ec.chunk.js",
+    "main.js.map": "/BillingApp/static/js/main.825d65ec.chunk.js.map",
+    "runtime-main.js": "/BillingApp/static/js/runtime-main.02a0c9b2.js",
+    "runtime-main.js.map": "/BillingApp/static/js/runtime-main.02a0c9b2.js.map",
+    "static/js/2.a7b61b4f.chunk.js": "/BillingApp/static/js/2.a7b61b4f.chunk.js",
+    "static/js/2.a7b61b4f.chunk.js.map": "/BillingApp/static/js/2.a7b61b4f.chunk.js.map",
+    "static/js/3.987315d9.chunk.js": "/BillingApp/static/js/3.987315d9.chunk.js",
+    "static/js/3.987315d9.chunk.js.map": "/BillingApp/static/js/3.987315d9.chunk.js.map",
+    "index.html": "/BillingApp/index.html",
+    "static/css/main.3acdc3a8.chunk.css.map": "/BillingApp/static/css/main.3acdc3a8.chunk.css.map",
+    "static/js/2.a7b61b4f.chunk.js.LICENSE.txt": "/BillingApp/static/js/2.a7b61b4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02a0c9b2.js",
+    "static/js/2.a7b61b4f.chunk.js",
+    "static/css/main.3acdc3a8.chunk.css",
+    "static/js/main.825d65ec.chunk.js"
+  ]
+}
