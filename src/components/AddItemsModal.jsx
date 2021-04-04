@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Modal, Button, Form, Col } from 'react-bootstrap';
 import {getItems} from '../utils/utils';
 import { useStore } from '../reducers/reducer';

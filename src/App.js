@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import './App.css';
 import { Container } from 'react-bootstrap';
 import { getItems } from './utils/utils';
